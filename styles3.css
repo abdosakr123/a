@@ -1,0 +1,48 @@
+body {
+	font: bold 11px/1.5em Verdana;
+	}
+
+	.tiger2{
+		
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 80%;
+		font-size: 15px;
+	}
+	.hr1{
+		
+	margin-top: 50px;
+	}
+
+	.putton1{
+
+		background-color: #4CAF50;
+		border: none;
+		color: rgb(255, 255, 255);
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		font-size:100%;
+	}
+
+.tx{
+	color: #ff0000;
+	display: block;
+	font-size: 1.5em;
+	margin-top: 0.67em;
+	margin-bottom:0%;
+	margin-left: 2%;
+	margin-right: 1;
+	width: 100%;
+	font-weight:600;
+}
+
+.hr2{
+		
+	margin-bottom: 50px;
+	}
+
+	

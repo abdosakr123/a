@@ -1,0 +1,33 @@
+body {
+	font: bold 11px/1.5em Verdana;
+	}
+
+	
+
+.tx{
+	color: #ff0000;
+	display: block;
+	font-size: 1.5em;
+	margin-top: 0.67em;
+	margin-bottom:0%;
+	margin-left: 2%;
+	margin-right: 1;
+	width: 100%;
+	font-weight:600;
+}
+
+.he{
+		
+	margin-bottom: 50px;
+	color: #ff0000;
+	font-size: 3.5em;
+	margin-top: 10.0em;
+	margin-bottom:2%;
+	margin-left: 2%;
+	margin-right: 1;
+	width: 100%;
+	font-weight:600;
+
+	}
+
+	
